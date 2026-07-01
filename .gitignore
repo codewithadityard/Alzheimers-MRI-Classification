@@ -1,0 +1,10 @@
+# Ignore model weights
+*.pth
+
+# Ignore dataset folders
+dataset/
+data/
+
+# Ignore Python cache
+__pycache__/
+.ipynb_checkpoints/
